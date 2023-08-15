@@ -1,0 +1,21 @@
+{
+  "name": "cypress-websokets-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:debug": "cypress open",
+    "test:headless": "cypress run"
+  },
+  "author": "Yurii Drapak",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "cypress": "^12.17.3",
+    "ws": "^8.13.0"
+  },
+  "devDependencies": {
+    "@lensesio/cypress-websocket-testing": "^1.0.1",
+    "rxjs": "^6.6.7"
+  }
+}

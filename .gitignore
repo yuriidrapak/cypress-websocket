@@ -1,0 +1,116 @@
+# File Extensions
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.js.mp4
+
+# JetBrains IDE settings
+.idea/
+
+# Settings files
+.settings/
+
+# Temporary files
+dist
+.tmp  
+.sass-cache
+
+# MacOS folder settings
+*DS_Store*  
+
+# Vim files
+*.swo  
+*.swp 
+
+# Cypress directories
+cypress/screenshots/
+cypress/videos/
+cypress/reports/
+cypress/snapshots/
+cypress/downloads/
+
+# Logs and Debug Files
+logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Diagnostic reports (Node.js)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Runtime data
+pids
+*.pid.lock
+
+# Instrumented Libraries (jscoverage/JSCover)
+lib-cov
+
+# Coverage directories (istanbul and similar tools)
+coverage
+*.lcov
+.nyc_output
+
+# Grunt intermediate storage
+.grunt
+
+# Bower dependency directory
+bower_components
+
+# Node-waf configuration
+.lock-wscript
+
+# Compiled binary addons (Node.js)
+build/Release
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# TypeScript
+typings/
+*.tsbuildinfo
+
+# Optional directories
+.npm
+.eslintcache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+.node_repl_history
+
+# Package Output
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Environment files
+.env
+.env.test
+
+# Parcel cache
+.cache
+
+# Framework specific outputs
+.next
+.nuxt
+.cache/
+.vuepress/dist  
+
+# Serverless directories
+.serverless/
+
+# FuseBox cache
+.fusebox/
+
+# DynamoDB Local files
+.dynamodb/
+
+# TernJS port file
+.tern-port
